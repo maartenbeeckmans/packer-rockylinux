@@ -24,4 +24,4 @@ box_basename   = "rockylinux_8"
 cpus           = 2
 memory         = 2048
 disk_size      = "10G"
-headless       = false
+headless       = true
